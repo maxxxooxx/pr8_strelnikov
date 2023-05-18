@@ -1,4 +1,3 @@
-# Лабораторная работа N8
 import random
 import string
 
